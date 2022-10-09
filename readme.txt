@@ -30,7 +30,7 @@ Step 3: added a column called “currency” which have value Dollar.
 Step 4: derived “cleaned_price_string” column from value column. edited Product Prices in the correct format (eg: $56) wherever possible. 
 
 
-<b> TASK 4: List out the categories with average price of product. </b>
+TASK 4: List out the categories with average price of product. 
 
 Step 1: for this task, I only used the columns “price_string” and “categrory”. Since we are going to calculate the average price, I dropped all the NAN values in price_string column.  
 
